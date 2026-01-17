@@ -40,11 +40,11 @@ Run the following to generate text from a custom prompt using the pre-trained we
 python interact.py
 ```
 
-## 📜 Acknowledgments
+## Acknowledgments
 
 This project was developed as a deep dive into modern Transformer architectures, focusing on the mathematical transition from absolute positional encodings to relative rotary embeddings.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
