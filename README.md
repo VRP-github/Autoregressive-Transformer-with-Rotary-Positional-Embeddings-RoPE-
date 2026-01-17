@@ -26,7 +26,7 @@ The model was trained for 5,000 iterations using a causal masking strategy. To p
 | **Train Loss** | 9.27 | 3.48 |
 | **Val Perplexity** | 10,662.5 | 141.56 |
 
-## 💻 Usage
+## Usage
 
 ### 1. Setup Environment
 ```bash
